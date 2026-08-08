@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="waving hand"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Vijay%20Vardhan%20Jaiswal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header banner"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm Vijay Vardhan Jaiswal</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Vijay+Vardhan+Jaiswal;B.Tech+CSIT+Student" alt="Typing SVG" />
@@ -23,6 +21,10 @@ I am familiar with Git, GitHub and VS Code, and actively build projects to stren
 ---
 
 ### 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,bootstrap,mongodb,express,react,nodejs,git,github,vscode" alt="skill icons"/>
+</p>
 
 **Languages**
 <br>
@@ -76,3 +78,7 @@ I am familiar with Git, GitHub and VS Code, and actively build projects to stren
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer&animation=fadeIn" alt="footer banner"/>
+</p>
