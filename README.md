@@ -52,21 +52,6 @@ I am familiar with Git, GitHub and VS Code, and actively build projects to stren
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vijayvardhanji&theme=radical&hide_border=false&include_all_commits=true&count_private=false" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayvardhanji&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Vijayvardhanji&theme=radical&hide_border=false" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vijayvardhanji&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies"/>
-</p>
-
 ### ✍️ Random Dev Quote
 
 <p align="center">
