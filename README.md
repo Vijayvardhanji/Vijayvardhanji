@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Vardhan Jaiswal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Vijay+Vardhan+Jaiswal;B.Tech+CSIT+Student;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Vijay+Vardhan+Jaiswal;B.Tech+CSIT+Student" alt="Typing SVG" />
 </p>
 
 ---
