@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="waving hand"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Vijay Vardhan Jaiswal</h1>
 
 <p align="center">
