@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vijay Vardhan Jaiswal</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Vijay+Vardhan+Jaiswal;B.Tech+CSIT+Student;Full+Stack+Developer" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -58,12 +62,6 @@ I am familiar with Git, GitHub and VS Code, and actively build projects to stren
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
 </p>
 
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Vijayvardhanji&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contributed repo"/>
-</p>
-
 ---
 
 ### 🌐 Connect with Me
@@ -71,10 +69,6 @@ I am familiar with Git, GitHub and VS Code, and actively build projects to stren
 <p align="left">
 <a href="https://www.linkedin.com/in/vijayvardhanofficial/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vijayvardhanofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Vijayvardhanji&icon=0&color=0" alt="visitor count"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
